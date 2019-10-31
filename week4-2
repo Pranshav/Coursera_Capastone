@@ -6,4 +6,8 @@ https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 This is a list of postal codes in Canada where the first letter is M. Postal codes beginning with M are located within the city of Toronto 
 in the province of Ontario.
 Only the first three characters are listed, corresponding to the Forward Sortation Area.
+A lot of steps were taken to clean the scrapped data and add other features like latitude and longitude values,
+Foursquare API was used to find the details about different venues, their type and other information
+Using the scrapped data a map was formed to get some basic visual understanding
+
 
