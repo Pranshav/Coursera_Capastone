@@ -4,3 +4,4 @@ This project helps people who are shifting from one place to toronto and are loo
 which is similar to the one they are currently staying in.
 This project uses a KMeans clustering model for finding the best neighbourhood, as KMeans is an excellent unsupervised
 learning algorithm
+This project also helps in understanding the futre prospects in the city, as it shows us the types of places with the highest volume 
