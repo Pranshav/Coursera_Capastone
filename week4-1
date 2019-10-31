@@ -1,0 +1,6 @@
+Introduction or Business problem
+
+This project helps people who are shifting from one place to toronto and are looking for an ideal place,
+which is similar to the one they are currently staying in.
+This project uses a KMeans clustering model for finding the best neighbourhood, as KMeans is an excellent unsupervised
+learning algorithm
